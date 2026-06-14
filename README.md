@@ -1,0 +1,50 @@
+\# Game Saya - Godot
+
+
+
+\## Deskripsi
+
+Game 2D platformer yang dibuat menggunakan Godot Engine.
+
+
+
+\## Teknologi
+
+\- Godot Engine 4
+
+\- GDScript
+
+
+
+\## Fitur
+
+\- Player movement
+
+\- Jump
+
+\- Player animation
+
+\- Coin collection
+
+\- Countdown timer
+
+\- Game over system
+
+
+
+\## Cara Menjalankan
+
+1\. Install Godot Engine
+
+2\. Clone repository
+
+3\. Buka file project.godot
+
+4\. Klik Run Project
+
+
+
+\## Author
+
+Devan Ganicia
+
