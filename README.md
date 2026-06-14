@@ -31,8 +31,15 @@ Game 2D platformer yang dibuat menggunakan Godot Engine.
 \- Game over system
 
 
+\## Controls
 
-\## Cara Menjalankan
+| Tombol | Fungsi |
+|---|---|
+| ← | Bergerak ke kiri |
+| → | Bergerak ke kanan |
+| ↑ | Melompat |
+
+\## Cara Menjalankan 1
 
 1\. Install Godot Engine
 
@@ -41,6 +48,12 @@ Game 2D platformer yang dibuat menggunakan Godot Engine.
 3\. Buka file project.godot
 
 4\. Klik Run Project
+
+\## Cara Menjalankan 2
+
+1\. Download release game
+2\. Jalankan file game-saya.exe
+
 
 
 
