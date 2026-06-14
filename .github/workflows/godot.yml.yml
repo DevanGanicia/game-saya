@@ -1,0 +1,24 @@
+name: Godot CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Godot
+        uses: lihop/setup-godot@v2
+        with:
+          godot-version: 4.3
+
+      - name: Check Project
+        run: |
+          godot --headless --path . --editor --quit
